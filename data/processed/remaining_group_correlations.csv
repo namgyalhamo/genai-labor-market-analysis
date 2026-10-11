@@ -1,0 +1,7 @@
+occupation_major,occupation_label,n_occupation_groups,pearson_r
+9,Elementary,11,0.30240690747737864
+2,Professionals,27,0.22777440487318742
+6,Agriculture,9,0.16308402507508082
+1,Managers,11,-0.10438635722259297
+3,Technicians,20,-0.16092844156633393
+7,Craft,14,-0.19909932707480882

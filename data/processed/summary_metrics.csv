@@ -1,0 +1,2 @@
+metric,value,n_occupation_groups,interpretation
+Pearson correlation: GenAI exposure proxy vs. 2021-22 to 2023-24 employment-share change,-0.01,127,Descriptive correlation across three-digit NCO-2015 occupation groups; not causal inference.

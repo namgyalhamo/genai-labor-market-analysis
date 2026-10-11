@@ -1,0 +1,25 @@
+group,category,exposure_tercile,weight,share_percent
+sex,Men,Lower,176713942057,66.44409178181695
+sex,Men,Middle,36161646580,13.596707403924782
+sex,Men,Higher,53083260853,19.959200814258267
+sex,Other / missing,Lower,2900669,100.0
+sex,Other / missing,Middle,0,0.0
+sex,Other / missing,Higher,0,0.0
+sex,Women,Lower,85858426473,80.90664488512822
+sex,Women,Middle,8651014532,8.152077663066812
+sex,Women,Higher,11610923515,10.94127745180497
+sector,Rural,Lower,217975733404,81.18958574465016
+sector,Rural,Middle,23682659498,8.821098036681455
+sector,Rural,Higher,26819061940,9.989316218668387
+sector,Urban,Lower,44599535795,43.04780872324462
+sector,Urban,Middle,21130001614,20.394837111809046
+sector,Urban,Higher,37875122428,36.55735416494633
+education,Below primary,Lower,92894083491,91.35662970927876
+education,Below primary,Middle,4386077503,4.3134852431865625
+education,Below primary,Higher,4402753302,4.329885047534673
+education,Primary or middle,Lower,103338301375,78.874281725612
+education,Primary or middle,Middle,13698271243,10.455380926511104
+education,Primary or middle,Higher,13979899563,10.670337347876906
+education,Secondary or above,Lower,66342884333,47.59763651408285
+education,Secondary or above,Middle,26728312366,19.17620117699524
+education,Secondary or above,Higher,46311531503,33.226162308921914

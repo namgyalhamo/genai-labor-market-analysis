@@ -1,0 +1,13 @@
+# Restricted PLFS respondent-level microdata: never publish these files.
+data/raw/plfs_*.csv.gz
+data/raw/*.csv
+data/raw/*.dta
+data/raw/*.sav
+data/cleaned/plfs_*_workers_clean.csv.gz
+
+# Local Python and temporary files
+.venv/
+__pycache__/
+scripts/__pycache__/
+tmp/
+.DS_Store
